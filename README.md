@@ -24,7 +24,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
 <br>
-<br>
 <h3 align="left">Связаться со мной:</h3>
 <p align="left">
 <a href="mailto:andrey.kropatchev@gmail.com" target="blank"><img align="center" src="./icons/gmail.png" alt="e-mail" height="30" /></a>
