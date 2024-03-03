@@ -27,6 +27,6 @@
 <br>
 <h3 align="left">Связаться со мной:</h3>
 <p align="left">
-<a href="mailto:andrey.kropatchev@gmail.com" target="blank"><img align="center" src="./icons/gmail.png" alt="e-mail" height="30" /></a>
+<a href="mailto:nscapital08@gmail.com" target="blank"><img align="center" src="./icons/gmail.png" alt="e-mail" height="30" /></a>
 <a href="https://t.me/mczoom" target="blank"><img align="center" src="./icons/telegram-light.svg" alt="mczoom" height="30" width="40" /></a>
 </p>
